@@ -1,8 +1,8 @@
 <br/>
 <p align="center">
- 
+ <a href="">
     <img src="https://raw.githubusercontent.com/Sata-hash/Gist-AI/master/public/favicon.ico">
-  
+ </a>
 
   <h3 align="center">Gist AI</h3>
   <h6 align="center">Summarize Articles with
