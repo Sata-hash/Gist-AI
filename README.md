@@ -12,7 +12,7 @@ OpenAI GPT-4</h6>
    Simplify your reading with Gist AI, an open-source article summarizer that transforms lengthy articles into clear concise summaries
     <br/>
     <br/>
-    <a href="https://gist-ai.vercel.app/"><strong>View Live Demo »</strong></a>
+    <a href="https://gist-ai-lilac.vercel.app"><strong>View Live Demo »</strong></a>
     <br/>
   <p align="center"><b>🚀UPDATE[v1.1]:</b>  Fixed the API Key issue </p>
     <br/>
