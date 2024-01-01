@@ -1,8 +1,8 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/ShaanCoding/ReadME-Generator">
+ 
     <img src="logo.png" alt="Logo" width="80" height="80">
-  </a>
+  
 
   <h3 align="center">Gist AI</h3>
   <h6 align="center">Summarize Articles with
