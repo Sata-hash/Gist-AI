@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
-    <img src="https://gist-ai.vercel.app/assets/logo-c5a335c5.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Gist AI</h3>
@@ -14,9 +14,6 @@ OpenAI GPT-4</h6>
     <br/>
     <a href="https://gist-ai-lilac.vercel.app"><strong>View Live Demo »</strong></a>
     <br/>
-  <p align="center"><b>🚀UPDATE[v1.1]:</b>  Fixed the API Key issue </p>
-    <br/>
-  </p>
 </p>
 
 
